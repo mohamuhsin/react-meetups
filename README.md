@@ -1,2 +1,2 @@
 # React-Meetups
-This is a react app were React Developers Plan to meet up.
+This is an app built entirely with react were React Developers Plan to meet up.
